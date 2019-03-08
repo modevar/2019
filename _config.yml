@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WEESR 2019"
+title                    : "MODEVAR 2019"
 title_separator          : "-"
 name                     : &name "Workshop on Empirical Experiences on Software Reuse"
 description              : &description "personal description"
