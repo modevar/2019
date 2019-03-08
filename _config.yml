@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "MODEVAR 2019"
 title_separator          : "-"
-name                     : &name "Workshop on Empirical Experiences on Software Reuse"
+name                     : &name "International workshop on languages for modelling variability (MODEVAR)"
 description              : &description "personal description"
-url                      : https://weesr.github.io
+url                      : https://modevar.github.io
 baseurl                  : "/" 
-repository               : "weesr/weesr.github.io"
+repository               : "modevar/events"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +83,8 @@ author:
   location         : "at SPLC 2019"
   employer         : "Paris, France"
   googlescholar    : 
-  email            : weesr2019@easychair.org
-  email_label      : "weesr2019@..."
+  email            : modevar2019@easychair.org
+  email_label      : "modevar2019@..."
   uri              : 
   bitbucket        :
   codepen          :
@@ -104,8 +104,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@weesr2019"
-  twitter_label    : "@weesr2019"
+  twitter          : "@splcconf"
+  twitter_label    : "@splcconf"
   vine             :
   weibo            :
   xing             :
