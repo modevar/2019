@@ -9,11 +9,11 @@ main:
   - title: "Important dates"
     url: /dates/    
 
-#  - title: "Schedule"
-#    url: /schedule/    
+  - title: "Program"
+    url: /program/    
 
-#  - title: "Logistics"
-#    url: /logistics/    
+  - title: "Committees"
+    url: /committees/    
     
 #  - title: "Registration"
 #    url: /registration/
