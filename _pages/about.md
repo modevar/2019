@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Workshop on Empirical Experiences on Software Reuse (WEESR 2019)"
+title: "First International Workshop on Languages for Modelling Variability (MODEVAR 2019)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
  
-*colocated with Software Product Line Conference (SPLC 2019)*
+*colocated with Software Product Line Conference ([SPLC 2019](https://splc2019.net/))*
 
-This workshop aims to bring together researchers and experts, to present significantly experience and challenges on the area of software reuse, particularly domain engineering applied to both, software and software process, in order to achieve an effective research methods and knowledge among researchers and practitioners.
+Feature models were invented in 1990 and have been recognised as one of the main contributions to the Software Product Line community. Although there have been several attempts to establish and study a sort of standard variability modelling language (OVM, CVL, TVL,..) there is still no consensus on a simple feature modelling language. There can be many motivations to have one but among others, there is one that is very important: information sharing among researchers, tools or developers. This first international workshop plans to be an interactive event where all participants shall share knowledge about how to build up a simple feature model language that all the community can agree on. 
 
 
-![This year, WEESR will be at Paris](./images/weesr-2019-background.png "This year, WEESR will be at Paris")
+![This year, MODEVAR will be at Paris](./images/weesr-2019-background.png "This year, MODEVAR will be at Paris")
 
-![Organized by Universidad del Cauca and Universidad de los Andes](./images/weesr-2019-logos.png) 
+#![Organized by Universidad del Cauca and Universidad de los Andes](./images/weesr-2019-logos.png) 
