@@ -14,4 +14,6 @@ Feature models were invented in 1990 and have been recognised as one of the main
 
 ![This year, MODEVAR will be at Paris](./images/weesr-2019-background.png "This year, MODEVAR will be at Paris")
 
-#![Organized by Universidad del Cauca and Universidad de los Andes](./images/weesr-2019-logos.png) 
+<!--
+![Organized by .....](./images/modevar-2019-logos.png) 
+-->
