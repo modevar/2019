@@ -14,7 +14,7 @@ redirect_from:
 * Mathieu Acher
 * Don Batory
 
-#Programme Commitee
+# Programme Commitee
 
-#Web master
+# Web master
 * Jaime Chavarriaga
