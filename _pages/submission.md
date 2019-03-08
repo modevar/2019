@@ -6,6 +6,6 @@ redirect_from:
   - /call-for-papers/
 ---
 
-Here is where you put instructions about submitting to your event.
+TBD
 
 [Link to a submission form.]()
