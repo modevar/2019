@@ -15,7 +15,7 @@ redirect_from:
 * Mathieu Acher, University of Rennes 1, France
 
 # Programme Commitee
-* Andrzej W{\k{a}}sowski, IT University of Copenhagen, Denmark
+* Andrzej Wąsowski, IT University of Copenhagen, Denmark
 * Don Batory, University of Texas at Austin,USA
 * David Benavides, University of Sevilla, Spain
 * Christoph Seidl,  Technische Universität Braunschweig, Germany
