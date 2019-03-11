@@ -10,7 +10,7 @@ This is a Jekyll-based website for the MODEVAR 2019 workshop. This repository co
 
 The MODEVAR website is deployed in [Github Pages](https://pages.github.com/). Authors can create new content using [Prose](http://prose.io/), [Netlify](https://www.netlify.com/) or the [Github](https://github.com) web interface. This repository must be cloned/forked only for development.
 
-This site is inspired in [AcademicPages/events](https://github.com/academicpages/events), a fork from the [minimal mistakes template](https://mmistakes.github.io/minimal-mistakes). The website includes search options provided by [Algolia](https://www.algolia.com/).
+This site is inspired in [AcademicPages/events](https://github.com/academicpages/events), a fork from the [minimal mistakes template](https://mmistakes.github.io/minimal-mistakes). 
 
 ## Local installation for development
 
