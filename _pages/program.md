@@ -1,10 +1,11 @@
 ---
-permalink: /program
+permalink: /program/
 title: "Program"
 author_profile: true
 classes: wide
 redirect_from: 
   - /agenda/
+
 ---
 
 ## TBD
