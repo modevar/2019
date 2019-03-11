@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ### Submissions
-Please send your papers  using [EasyChair] (https://easychair.org/conferences/?conf=modevar2019)
+Please send your papers using [EasyChair](https://easychair.org/conferences/?conf=modevar2019)
 
 ### Publication
 SPLC workshop papers will be published in volume 2 of the SPLC conference proceedings published by ACM.
