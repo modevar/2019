@@ -1,27 +1,23 @@
-# main links links
+# Academic Event
+
+# main links
 main:
   - title: "Home"
     url: /
-
   - title: "Submission"
     url: /submission/
-
   - title: "Important dates"
     url: /dates/    
-
   - title: "Program"
     url: /program/    
-
   - title: "Committees"
     url: /committees/    
     
 #  - title: "Registration"
-#    url: /registration/
-        
+#    url: /registration/       
 #  - title: "Code of Conduct"
 #    url: /conduct/
 
 #  - title: "Blog"
 #    url: /year-archive/
-    
 

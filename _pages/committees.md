@@ -2,19 +2,22 @@
 permalink: /committees/
 title: "Committees"
 author_profile: true
+classes: wide
 redirect_from: 
   - /speakers/
   - /organizers/
 ---
 
 
-# Organizing Committee
+## Organizing Committee
 * David Benavides, University of Sevilla, Spain
 * Rick Rabiser,  University Linz, Austria
 * Don Batory, University of Texas at Austin, USA
 * Mathieu Acher, University of Rennes 1, France
 
-# Programme Commitee
+For further information, please send an email at [modevar2019@easychair.org](mailto:modevar2019@easychair.org).
+
+## Programme Commitee
 * Andrzej Wąsowski, IT University of Copenhagen, Denmark
 * Don Batory, University of Texas at Austin,USA
 * David Benavides, University of Sevilla, Spain
@@ -41,5 +44,5 @@ redirect_from:
 * Thomas Thuem, Technische Universität Braunschweig, Germany
 * Thorsten Berger, Chalmers University, Sweden
 
-# Web master
+## Web master
 * Jaime Chavarriaga, Universidad de Los Andes, Colombia
