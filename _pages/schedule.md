@@ -2,6 +2,8 @@
 permalink: /schedule/
 title: "Schedule"
 author_profile: true
+sitemap: false
+classes: wide
 redirect_from: 
   - /agenda/
 ---

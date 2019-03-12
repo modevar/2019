@@ -22,7 +22,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "custom"
   disqus:
     shortname            :
   discourse:
@@ -60,25 +60,19 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 search                   : true # true, false (default)
-search_full_content      : true # true, false (default)
+search_full_content      : false # true, false (default)
 search_provider          : lunr # lunr (default), algolia
-algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : false # true (default), false
 #  files_to_exclude:
 #    - _posts/2017-11-28-post-exclude-search.md
 
 # SEO Related
-google_site_verification : "" # Replace this with your ID, or delete
+google_site_verification : # Replace this with your ID, or delete
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : &twitter "splcconf"
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -97,7 +91,7 @@ analytics:
   provider               : false   # "google-universal"
   google:
     tracking_id          : # "UA-2011187-3"
-    anonymize_ip         : true
+    anonymize_ip         : false
 
 
 # Site Author
@@ -157,6 +151,7 @@ exclude:
   - package.json
   - Rakefile
   - README
+  - NOTES
   - tmp
 keep_files:
   - .git
@@ -186,10 +181,7 @@ kramdown:
 
 
 # Collections
-# collections:
-#   docs:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
 
 
 # Defaults
@@ -226,9 +218,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
@@ -249,7 +241,6 @@ whitelist:
   - jemoji
   - jekyll-include-cache
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -266,17 +257,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
 
 # HTML Compression

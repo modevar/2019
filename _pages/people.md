@@ -2,6 +2,8 @@
 permalink: /people/
 title: "People"
 author_profile: true
+sitemap: false
+classes: wide
 redirect_from: 
   - /speakers/
   - /organizers/

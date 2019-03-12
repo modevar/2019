@@ -2,6 +2,8 @@
 permalink: /registration/
 title: "Registration"
 author_profile: true
+sitemap: false
+classes: wide
 ---
 
 [Link to registration form]()

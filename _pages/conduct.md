@@ -2,6 +2,8 @@
 permalink: /conduct/
 title: "Code of Conduct"
 author_profile: true
+sitemap: false
+classes: wide
 redirect_from: 
   - /coc/
 ---
