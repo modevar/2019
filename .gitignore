@@ -1,0 +1,8 @@
+# MODEVAR 2019
+# files to ignore
+
+# Eclipse
+.project
+
+# generated files
+_site/
