@@ -3,6 +3,7 @@ permalink: /
 title: "First International Workshop on Languages for Modelling Variability (MODEVAR 2019)"
 header:
   overlay_image: /assets/modevar/modevar-2019-background.png
+  caption: "Photo: [MaxPixel.net](https://www.maxpixel.net/Paris-Louvre-Buildings-Pyramide-Architecture-1867919)"
   actions:
    - label: "<i class='fas fa-file-import'></i> Submit paper"
      url: "https://easychair.org/conferences/?conf=modevar2019"
