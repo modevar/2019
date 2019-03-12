@@ -20,8 +20,8 @@ For further information, please send an email at [modevar2019@easychair.org](mai
 * Andrzej Wąsowski, IT University of Copenhagen, Denmark
 * Don Batory, University of Texas at Austin,USA
 * David Benavides, University of Sevilla, Spain
-* Christoph Seidl,  Technische Universität Braunschweig, Germany
 * Camille Salinesi, University of Paris 1, France
+* Christoph Seidl,  Technische Universität Braunschweig, Germany
 * Ina Schaefer,  Technische Universität Braunschweig, Germany
 * José A. Galindo, University of Sevilla, Spain
 * Jules White, Vanderbilt University, USA
@@ -42,6 +42,7 @@ For further information, please send an email at [modevar2019@easychair.org](mai
 * Tewfik Ziadi,  Sorbonne University, France
 * Thomas Thuem, Technische Universität Braunschweig, Germany
 * Thorsten Berger, Chalmers University, Sweden
+* Jaime Chavarriaga, Universidad de Los Andes, Colombia
 
 ## Web master
 * Jaime Chavarriaga, Universidad de Los Andes, Colombia
