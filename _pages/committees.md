@@ -18,11 +18,12 @@ For further information, please send an email at [modevar2019@easychair.org](mai
 
 ## Programme Commitee
 * Andrzej Wąsowski, IT University of Copenhagen, Denmark
-* Don Batory, University of Texas at Austin,USA
-* David Benavides, University of Sevilla, Spain
 * Camille Salinesi, University of Paris 1, France
 * Christoph Seidl,  Technische Universität Braunschweig, Germany
+* Don Batory, University of Texas at Austin,USA
+* David Benavides, University of Sevilla, Spain
 * Ina Schaefer,  Technische Universität Braunschweig, Germany
+* Jaime Chavarriaga, Universidad de Los Andes, Colombia
 * José A. Galindo, University of Sevilla, Spain
 * Jules White, Vanderbilt University, USA
 * Klaus Pohl,  Ruhr Institute for Software Technology - University of Duisburg-Essen, Germany
@@ -42,7 +43,6 @@ For further information, please send an email at [modevar2019@easychair.org](mai
 * Tewfik Ziadi,  Sorbonne University, France
 * Thomas Thuem, Technische Universität Braunschweig, Germany
 * Thorsten Berger, Chalmers University, Sweden
-* Jaime Chavarriaga, Universidad de Los Andes, Colombia
 
 ## Web master
 * Jaime Chavarriaga, Universidad de Los Andes, Colombia
