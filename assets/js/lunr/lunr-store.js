@@ -24,7 +24,10 @@ var store = [
               replace:"</h4>", " " |
               replace:"</h5>", " " |
               replace:"</h6>", " "|
-            strip_html | strip_newlines | jsonify }},
+              replace:"#", " " |
+              replace:"##", " " |
+              replace:"###", " " |
+              strip_html | strip_newlines | jsonify }},
           {%- else -%}
             {{ doc.content | newline_to_br |
               replace:"<br />", " " |
@@ -35,6 +38,9 @@ var store = [
               replace:"</h4>", " " |
               replace:"</h5>", " " |
               replace:"</h6>", " "|
+              replace:"#", " " |
+              replace:"##", " " |
+              replace:"###", " " |
             strip_html | strip_newlines | truncatewords: 50 | jsonify }},
           {%- endif -%}
         "categories": {{ doc.categories | jsonify }},
