@@ -7,6 +7,8 @@ redirect_from:
   - /call-for-papers/
 ---
 
+## This page is in draft mode. A call for constributions is being prepared. Please, keep tuned!
+
 ### Submissions
 Please send your papers using [EasyChair](https://easychair.org/conferences/?conf=modevar2019)
 
