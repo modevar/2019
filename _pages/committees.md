@@ -17,32 +17,33 @@ redirect_from:
 For further information, please send an email at [modevar2019@easychair.org](mailto:modevar2019@easychair.org).
 
 ## Programme Commitee
-* Andrzej Wąsowski, IT University of Copenhagen, Denmark
-* Camille Salinesi, University of Paris 1, France
-* Christoph Seidl,  Technische Universität Braunschweig, Germany
+* Mathieu Acher, University of Rennes 1, France
 * Don Batory, University of Texas at Austin,USA
 * David Benavides, University of Sevilla, Spain
-* Ina Schaefer,  Technische Universität Braunschweig, Germany
-* Jaime Chavarriaga, Universidad de Los Andes, Colombia
-* José A. Galindo, University of Sevilla, Spain
-* Jules White, Vanderbilt University, USA
-* Klaus Pohl,  Ruhr Institute for Software Technology - University of Duisburg-Essen, Germany
-* Klaus Schmid,  University of Hildesheim, Germany
+* Thorsten Berger, Chalmers University, Sweden
+* Philippe Collet, University of Nice Sophia Antipolis, France
 * Krzysztof Czarnecki, University of Waterloo, Canada
-* Kyo Kang, Postech, Korea
-* Lidia Fuentes, University of Málaga, Spain
-* Mathieu Acher, University of Rennes 1, France
-* Maurice ter Beek, ISTI-CNR, Pisa, Italy
+* Jaime Chavarriaga, Universidad de Los Andes, Colombia
 * Oscar Díaz, University of Basque Country, Spain
+* Lidia Fuentes, University of Málaga, Spain
+* José A. Galindo, University of Sevilla, Spain
+* Paul Gazillo, University of Central Florida, USA
 * Oystein Haugen, Høgskolen i Østfold, Norway
 * Patrick Heymans, University of Namur, Belgium
-* Paul Gazillo, University of Central Florida, USA
-* Philippe Collet, University of Nice Sophia Antipolis, France
-* Rick Rabiser, University Linz, Austria
+* Kyo Kang, Postech, Korea
 * Roberto Lopez, University of Quebec, Canada
-* Tewfik Ziadi,  Sorbonne University, France
+* Klaus Pohl,  Ruhr Institute for Software Technology - University of Duisburg-Essen, Germany
+* Rick Rabiser, University Linz, Austria
+* Camille Salinesi, University of Paris 1, France
+* Ina Schaefer,  Technische Universität Braunschweig, Germany
+* Klaus Schmid,  University of Hildesheim, Germany
+* Christoph Seidl,  Technische Universität Braunschweig, Germany
+* Maurice ter Beek, ISTI-CNR, Pisa, Italy
 * Thomas Thuem, Technische Universität Braunschweig, Germany
-* Thorsten Berger, Chalmers University, Sweden
+* Jules White, Vanderbilt University, USA
+* Andrzej Wąsowski, IT University of Copenhagen, Denmark
+* Tewfik Ziadi,  Sorbonne University, France
+
 
 ## Web master
 * Jaime Chavarriaga, Universidad de Los Andes, Colombia
