@@ -7,7 +7,7 @@ redirect_from:
   - /call-for-papers/
 ---
 
-[PDF version](assets/modevar/MODEVAR-CFP.pdf)
+[PDF version](../assets/modevar/MODEVAR-CFP.pdf)
 
 ## MOTIVATION AND GOALS
 
