@@ -22,8 +22,6 @@ For further information, please send an email at [modevar2019@easychair.org](mai
 * David Benavides, University of Sevilla, Spain
 * Thorsten Berger, Chalmers University, Sweden
 * Philippe Collet, University of Nice Sophia Antipolis, France
-* Krzysztof Czarnecki, University of Waterloo, Canada
-* Jaime Chavarriaga, Universidad de Los Andes, Colombia
 * Oscar Díaz, University of Basque Country, Spain
 * Lidia Fuentes, University of Málaga, Spain
 * José A. Galindo, University of Sevilla, Spain
@@ -41,7 +39,6 @@ For further information, please send an email at [modevar2019@easychair.org](mai
 * Maurice ter Beek, ISTI-CNR, Pisa, Italy
 * Thomas Thuem, Technische Universität Braunschweig, Germany
 * Jules White, Vanderbilt University, USA
-* Andrzej Wąsowski, IT University of Copenhagen, Denmark
 * Tewfik Ziadi,  Sorbonne University, France
 
 
