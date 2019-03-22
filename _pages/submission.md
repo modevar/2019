@@ -7,7 +7,7 @@ redirect_from:
   - /call-for-papers/
 ---
 
-## This page is in draft mode. A call for constributions is being prepared. Please, keep tuned!
+[PDF version](assets/modevar/MODEVAR-CFP.pdf)
 
 ## MOTIVATION AND GOALS
 
