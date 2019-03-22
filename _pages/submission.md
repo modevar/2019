@@ -9,7 +9,7 @@ redirect_from:
 
 ## This page is in draft mode. A call for constributions is being prepared. Please, keep tuned!
 
-##MOTIVATION AND GOALS
+## MOTIVATION AND GOALS
 
 Feature models were invented in 1990 and have been recognised as one of the main contributions to the Software Product Line community. Although there have been several attempts to establish and study a sort of standard variability modelling language (OVM, CVL, TVL,..) there is still no consensus on a simple variability modelling language. 
 As a community, we are missing such a simple, common variability modelling language. We cannot share easily our models and we cannot have a sort of universal model repository where we could post our outputs using a common notation. Other communities do have such kinds of languages such as CNF for SAT solving or XCSP for constraint programming for only mention a few.
