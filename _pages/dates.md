@@ -8,9 +8,7 @@ redirect_from:
 ---
 
 
-## Dates to take in account
-
-| Workshop             | TBD          |
+| Action             | Date          |
 | -------------------- | ------------ |
 | Paper Submission     | May 28, 2019 |
 | Paper Notification   | Jun 18, 2019 |
