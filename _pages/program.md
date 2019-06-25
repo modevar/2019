@@ -20,7 +20,7 @@ The program will be published after the announcement of accepted papers.
 * Angela Villota Gomez, Camille Salinesi and Raul Mazo. The High-Level Variability Language: an ontological approach
 * Pablo Parra, Óscar R. Polo, Segundo Esteban, Agustín Martínez and Sebastián Sánchez. A Component-based Approach to Feature Modelling
 * Thorsten Berger and Philippe Collet. Usage Scenarios for a Common Feature Modeling Language
-* Thomas Thüm, Christoph Seidl and Ina Schaefer. On the Need of Language Levels for Feature Modeling Notations
+* Thomas Thüm, Christoph Seidl and Ina Schaefer. On Language Levels for Feature Modeling Notations
 * José A. Galindo and David Benavides. Towards a new repository for feature model exchange
 
 #### Talks:
