@@ -88,7 +88,7 @@ redirect_from:
 </tr>
 <tr>
 	<td markdown="span">16:30 - 17:30</td>
-	<td markdown="span">Coffee break</td>
+	<td markdown="span">Working groups and wrap up</td>
 	<td markdown="span">Information will be provided on site</td>
 </tr>
 </tbody>
