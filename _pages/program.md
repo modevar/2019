@@ -1,11 +1,12 @@
 ---
-permalink: /schedule/
-title: "Schedule"
+permalink: /program/
+title: "Program"
 author_profile: true
 sitemap: false
 classes: wide
 redirect_from: 
   - /agenda/
+
 ---
 
 # Tuesday 10th September
