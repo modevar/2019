@@ -31,7 +31,7 @@ redirect_from:
 	<td></td>
 </tr>
 <tr>
-	<td markdown="span">16:00 - 16:30</td>
+	<td markdown="span">09:15 - 09:45</td>
 	<td markdown="span">Mathieu Acher and Andrzej Wasowski. *Technological proposal for a feature modeling language*</td>
 	<td markdown="span">20 minutes presentation + 10 minutes questions. **Chair**: Rick Rabiser</td>
 </tr>
