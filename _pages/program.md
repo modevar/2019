@@ -31,9 +31,9 @@ redirect_from:
 	<td></td>
 </tr>
 <tr>
-	<td markdown="span">09:15 - 09:45</td>
-	<td markdown="span">Klaus Pohl. *Feature-Models and Variability Modelling: A Comparison*</td>
-	<td markdown="span">20 minutes presentation + 10 minutes questions. **Chair**: Mathieu Acher</td>
+	<td markdown="span">16:00 - 16:30</td>
+	<td markdown="span">Mathieu Acher and Andrzej Wasowski. *Technological proposal for a feature modeling language*</td>
+	<td markdown="span">20 minutes presentation + 10 minutes questions. **Chair**: Rick Rabiser</td>
 </tr>
 <tr>
 	<td markdown="span">09:45 - 10:30</td>
@@ -81,12 +81,7 @@ redirect_from:
 	<td></td>
 </tr>
 <tr>
-	<td markdown="span">16:00 - 16:30</td>
-	<td markdown="span">Mathieu Acher and Andrzej Wasowski. *Technological proposal for a feature modeling language*</td>
-	<td markdown="span">20 minutes presentation + 10 minutes questions. **Chair**: Rick Rabiser</td>
-</tr>
-<tr>
-	<td markdown="span">16:30 - 17:30</td>
+	<td markdown="span">16:00 - 17:30</td>
 	<td markdown="span">Working groups and wrap up</td>
 	<td markdown="span">Information will be provided on site</td>
 </tr>
