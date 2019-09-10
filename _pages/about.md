@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "First International Workshop on Languages for Modelling Variability (MODEVAR 2019)"
+title: "First International Workshop on Languages for Modelling Variability (MODEVAR 2019), Sept 10th 2019"
 header:
   overlay_image: /assets/modevar/modevar-2019-background.png
   caption: "Photo: [MaxPixel.net](https://www.maxpixel.net/Paris-Louvre-Buildings-Pyramide-Architecture-1867919)"
