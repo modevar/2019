@@ -16,7 +16,7 @@ main:
     url: /committees/    
 
   - title: "MODEVAR 2020"
-    url: https//modevar.github.io/
+    url: https://modevar.github.io/
     
 # to enable this pages
 #  - modify _pages/* 
