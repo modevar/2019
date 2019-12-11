@@ -45,10 +45,16 @@ The following are instructions for Ubuntu Linux (or Ubuntu/WSL on Windows 10)
    git clone https://github.com/modevar/modevar.github.io
    ``` 
 
-4. Run the Jekyll preview to preview and regenerate the website when the files are changed
+4. Install additional libraries required by Jekyll
 
    ```
    cd modevar.github.io
+   bundle install
+   ``` 
+
+5. Run the Jekyll preview to preview and regenerate the website when the files are changed
+
+   ```
    bundle exec jekyll serve
    ``` 
 
